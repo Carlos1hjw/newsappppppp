@@ -229,7 +229,7 @@ class _BottomnavbarscreenState extends State<Bottomnavbarscreen> {
                 ),
                 const SizedBox(
                   height: 20,
-                ),
+                ), 
                 Container(
                   height: 65,
                   width: double.infinity,
